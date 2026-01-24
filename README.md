@@ -17,7 +17,8 @@ Return Rate: 2.17%
 
 Dashboard Pages
 1. Executive Dashboard
-[Screenshot Placeholder - Executive Dashboard Overview]
+Executive Dashboard Overview
+
 <img width="1295" height="778" alt="image" src="https://github.com/user-attachments/assets/3c1406b3-1f00-4c35-a408-2128f93ffb6a" />
 
 The Executive Dashboard provides a high-level view of business performance with the following components:
@@ -68,11 +69,11 @@ Product Type Analysis
 Most Ordered Product Type: Tires and Tubes
 Most Returned Product Type: Tires and Tubes
 
-[Screenshot Placeholder - Executive Dashboard KPIs]
-[Screenshot Placeholder - Revenue Trend Chart]
 
 2. Map View
-[Screenshot Placeholder - Geographic Map View]
+<img width="1305" height="793" alt="image" src="https://github.com/user-attachments/assets/6a35dc33-44ff-4339-8a0f-87fae5abe67d" />
+
+Geographic Map View
 The Map View provides geographic distribution of orders across three main regions:
 Regional Filters
 
@@ -96,10 +97,15 @@ Total Orders Display
 
 Central metric showing 25K total orders
 
-[Screenshot Placeholder - Map with Regional Bubbles]
+<img width="1305" height="793" alt="image" src="https://github.com/user-attachments/assets/f46c8eae-ed72-4f08-9809-19310d5c2eaa" />
+
+Map with Regional Bubbles
 
 3. Decomposition Tree
-[Screenshot Placeholder - Decomposition Tree View]
+<img width="1295" height="792" alt="image" src="https://github.com/user-attachments/assets/69a6ee42-004c-4a05-a42e-19b7bbb4b10f" />
+
+Decomposition Tree View
+
 The Decomposition Tree allows for hierarchical analysis of orders with drill-down capabilities:
 Hierarchy Levels
 
@@ -149,10 +155,14 @@ Country: United States
 CategoryName: Clothing
 SubcategoryName: Vests
 
-[Screenshot Placeholder - Full Decomposition Tree]
+<img width="1295" height="792" alt="image" src="https://github.com/user-attachments/assets/7017c4be-23f4-4983-8fdd-39cc88cbcbec" />
+
 
 4. Product Detailed Analysis
-[Screenshot Placeholder - Product Detailed View]
+<img width="1296" height="783" alt="image" src="https://github.com/user-attachments/assets/0fe4995f-e5ac-4d02-8f26-5533ab87e542" />
+
+Product Detailed View
+
 This page provides in-depth analysis of individual product performance with interactive filters and what-if analysis capabilities.
 Product Selection
 
