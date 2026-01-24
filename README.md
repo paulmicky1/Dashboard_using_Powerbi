@@ -1,5 +1,7 @@
-Power BI Sales Analytics Dashboard - README
+Power BI Sales Analytics Dashboard
+
 Overview
+
 This repository contains a comprehensive Power BI sales analytics dashboard that provides multi-dimensional insights into business performance across products, geographic regions, and time periods. The dashboard is designed to help stakeholders make data-driven decisions through interactive visualizations and detailed metrics.
 
 Dashboard Summary
