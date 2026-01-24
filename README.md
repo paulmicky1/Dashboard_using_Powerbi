@@ -1,3 +1,5 @@
+https://app.powerbi.com/groups/me/reports/d59c0d8c-f767-49ca-8a7f-3f905294db0c/6f74c050d6b30dab0677?experience=power-bi
+
 Power BI Sales Analytics Dashboard
 
 Overview
