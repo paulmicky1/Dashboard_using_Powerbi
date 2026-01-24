@@ -18,6 +18,8 @@ Return Rate: 2.17%
 Dashboard Pages
 1. Executive Dashboard
 [Screenshot Placeholder - Executive Dashboard Overview]
+<img width="1295" height="778" alt="image" src="https://github.com/user-attachments/assets/3c1406b3-1f00-4c35-a408-2128f93ffb6a" />
+
 The Executive Dashboard provides a high-level view of business performance with the following components:
 Key Metrics
 
